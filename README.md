@@ -1,4 +1,4 @@
-# Coaty Framework - JavaScript - forked
+# Coaty Framework - JavaScript - forked  
 
 [![Powered by Coaty](https://img.shields.io/badge/Powered%20by-Coaty-FF8C00.svg)](https://coaty.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
